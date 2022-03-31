@@ -11472,7 +11472,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgba(149, 0, 230, 0.6);
 }
 .team .team-item .team-item-caption:hover {
   opacity: 1;
