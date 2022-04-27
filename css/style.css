@@ -64,6 +64,21 @@
   --bs-body-bg: #fff;
 }
 
+body::-webkit-scrollbar {
+  width: 16px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #f4f4f4;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(83, 0, 128);
+  border-radius: 16px;
+  border: 2px solid #f4f4f4;
+}
+
+
 *,
 *::before,
 *::after {
