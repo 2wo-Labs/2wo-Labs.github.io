@@ -1,0 +1,11 @@
+.logo2wolabs img {
+    height: 50px;
+}
+  
+
+@media screen and (max-width: 767px) {
+    .logo2wolabs img {
+        height: 30px !important;
+        content: url("../images/logo-h.png") !important;
+    }
+}
